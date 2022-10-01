@@ -1,16 +1,13 @@
-### Hi there 👋
+### Solving geometric construction problems through visual reasoning
 
-<!--
-**EuclidNet/EuclidNet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Env:
+* Python 3.7
+* CUDA 10.2
+* TensorFlow 2.0
 
-Here are some ideas to get you started:
+## Acknowledgements
+Models derived and rehashed from:
+* [Mask-RCNN](https://github.com/matterport/Mask_RCNN)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## License
+Apache
